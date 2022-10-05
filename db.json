@@ -1,0 +1,41 @@
+{
+  "productList": [
+    {
+      "productName": "Mango",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 249,
+      "comment": "not bad",
+      "date": "2022-10-05T04:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Apple",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 116,
+      "comment": "Very good",
+      "date": "2022-10-21T04:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Iphone",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 1200,
+      "comment": "I love it",
+      "date": "2022-10-03T04:00:00.000Z",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
